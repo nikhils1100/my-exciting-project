@@ -1,0 +1,89 @@
+$ git checkout master
+$ git log
+
+commit ec0ecb99e69d1ee287f7e4c807aeb683fe7ed5fa
+Merge: 3b1f8dc 8d34df5
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 13:09:43 2021 +0530
+
+    resolved conflict in my-awesome-script.py
+
+commit 8d34df5c0b55ce096bf27ad6e7324bd3d5120583
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 12:54:16 2021 +0530
+
+    changed statement in py file
+
+commit 3b1f8dc4e7a14673036a6bf56e627d74c014513f
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 12:46:06 2021 +0530
+
+    changed statement
+
+commit 76deba98faa56132b36080c620661e4ec3c7d57f
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:20:16 2021 +0530
+
+    updated my-awesome-script.py
+
+commit 743f610b91e0539f82aea5f042d7a2599cd1f78c
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:18:44 2021 +0530
+
+    feature added in ../initial-setup
+
+commit 764c622ade156e2e0c9fd6b83c6dd2c2199b9a1c
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:16:34 2021 +0530
+
+    first commit to master
+
+$ git checkout feature/part1-finale
+$ git log
+ 
+commit 3b7626a8a0552e3c1fdbf6aa01fd6656c0e62839
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 18:08:21 2021 +0530
+
+    All change to py file
+    
+    second change to py file
+    
+    third change to py file
+
+commit ec0ecb99e69d1ee287f7e4c807aeb683fe7ed5fa
+Merge: 3b1f8dc 8d34df5
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 13:09:43 2021 +0530
+
+    resolved conflict in my-awesome-script.py
+
+commit 8d34df5c0b55ce096bf27ad6e7324bd3d5120583
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 12:54:16 2021 +0530
+
+    changed statement in py file
+
+commit 3b1f8dc4e7a14673036a6bf56e627d74c014513f
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 12:46:06 2021 +0530
+
+    changed statement
+
+commit 76deba98faa56132b36080c620661e4ec3c7d57f
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:20:16 2021 +0530
+
+    updated my-awesome-script.py
+
+commit 743f610b91e0539f82aea5f042d7a2599cd1f78c
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:18:44 2021 +0530
+
+    feature added in ../initial-setup
+
+commit 764c622ade156e2e0c9fd6b83c6dd2c2199b9a1c
+Author: Nik <sharmanikhil1100@gmail.com>
+Date:   Fri Jan 15 01:16:34 2021 +0530
+
+    first commit to master
