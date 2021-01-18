@@ -1,0 +1,18 @@
+PR Title: Product updates on Whatsapp 
+
+PR Description: An additional notification feature where you get an option to get the updates for your product listings.
+
+WHAT: 
+An option is made available to add whatsapp notfication. Thus, this adds another option to the original feature set of email-only notifications.
+
+WHY:
+Most of the customers/viewers on our website have registered their mobile number thus it is good to address that platform and it's features. 
+
+Notes:
+This is a side feature and added after the customer feedbacks.
+
+PR Reviewers:
+Team Lead : Teammate 1
+Teammates : Teammate 2, Teammate 3
+
+
